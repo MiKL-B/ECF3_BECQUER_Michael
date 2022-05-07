@@ -1,0 +1,59 @@
+Directeur Général = Maître d'ouvrage = Product Owner
+DSI = directeur systeme informatique
+ESN =  entreprise de services du numérique
+(hiérarchie: Directeur général > DSI)
+--------------------------------------------------------------
+Mon agence a comme client MenuizMan
+Mon agence s'est fait confier une mission par MenuizMan
+
+MenuizMan est une entreprise qui a un site internet sur lequel ils vendent des pergola etc.
+
+Produits = articles physiques
+ou 
+Produits = kit / lots  (ensemble articles) avec 1 référence
+
+MenuizMan a besoin d'un logiciel pour gérer différentes actions (pour leurs clients ou SAV)
+
+
+MenuizMan a demandé des devis a des entreprises d'apres leur cahier des charges, mais le cahier des charges était flou.
+MenuizMan n'a pas eu de bonne offres.
+
+Le DSI de MenuizMan est en arret maladie pendant un peu plus de 2 semaines (potentiellement 3 semaines)
+On a un cahier des charges a revoir.
+
+On est en contact avec le Directeur Général de MenuizMan.
+
+
+Mon agence qui est une ESN fait partie des candidats et nous avons  une période d'essai de 3 semaines pour faire la solution.
+
+Au bout des 3 semaines une ESN sera choisie et une présentation orale sera effectuée.
+
+Mettre en place une méthode Agile(Scrum) avec le Directeur Général et le Scrum Master de l'equipe de developpement de MenuizMan.
+
+Le directeur général apprécie d'avoir plusieurs interlocuteurs
+
+Sur la période de 3 semaines (sprint ou itération d'une semaine), le scrum master devra changer chaque semaine donc 3 scrum master
+
+chaque collaborateur(dev) de mon agence devra travailler sur tous les sujets
+
+le scrum master doit fournir un compte rendu du dailymeeting  et un scrum burndown(représentation graphique) tout les jours 
+
+
+le compte rendu et le scrum burndown devront etre envoyé entre 10h et 10h30
+
+
+
+Appli doit etre responsive : 
+-le technicien hotline de MenuizMan -> pc
+-les techniciens sav de MenuizMan -> tablette ou mobile
+
+A fournir : 
+- MCD MLD
+- UML (diagramme de classe)
+- uses case (diagramme de cas d'utilisation)
+- diagramme de séquence systeme  
+- Gantt / pert
+
+
+
+
