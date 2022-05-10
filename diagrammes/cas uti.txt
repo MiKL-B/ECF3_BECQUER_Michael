@@ -1,0 +1,32 @@
+client
+envoi article
+fourni facture
+
+
+
+3 technicien sav
+
+recoit article
+recoit expédition
+créer dossier
+selectionner dossier créer par hotline
+rechercher commande
+lister commande
+afficher article de la commande
+faire diagnostic
+suivi dossier
+cloture dossier
+reexpedition
+
+SI EC
+rembourser client
+
+SI EP
+
+CAS SAV
+création d'une nouvelle commande
+
+10 technicien hotline
+créer dossier
+modification d'un dossier avant traitement par SAV
+suivi dossier
