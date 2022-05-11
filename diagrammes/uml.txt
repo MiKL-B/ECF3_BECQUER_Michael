@@ -1,4 +1,5 @@
 sav
+-
 création nouvelle commande
 modification d'un dossier
 suivi dossier
@@ -7,3 +8,19 @@ réexpédition
 recherche commande
 lister commande 
 affiche article de la commande
+
+
+
+article
+code article
+libelle
+quantité commandée
+quantité expédiée
+
+
+commande
+numéro de commande
+nom du client
+code postal
+ville
+-
